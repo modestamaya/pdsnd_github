@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+2019/02/23
 
 ### Project Title
-Replace the Project Title
+Explore Bikeshare Database
 
 ### Description
-Describe what your project is about and what it does
+The project explores a bike rental data from three cities Chicago, Washington and New York. It takes in user input to filter data acoording to the user choice and provides statistics based on the filters. 
 
 ### Files used
 Include the files used

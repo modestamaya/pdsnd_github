@@ -1,5 +1,5 @@
 ### Date created
-2019/02/23
+2019 February 23
 
 ### Project Title
 Python Project 1: Bikeshare Database

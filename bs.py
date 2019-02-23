@@ -206,11 +206,9 @@ def user_stats(df):
 
         youngest = df['Birth Year'].max()
         oldest = df ['Birth Year'].min()
-        common = df['Birth Year'].mode()[0]
 
         print('\nThe youngest user was born in {}.\n'.format(int(youngest)))
         print('\nThe oldest user was born in {}.\n'.format(int(oldest)))
-        print('\nThe most common year of birth is {}.\n'.format(int(common)))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
